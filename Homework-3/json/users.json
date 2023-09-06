@@ -1,0 +1,20 @@
+[
+  {
+    "username": "matthew_williams",
+    "email": "matthew_williams@gmail.com",
+    "password": "UniPass9876",
+    "firstName": "Matthew",
+    "lastName": "Williams",
+    "dateOfBirth": "08.03.1997",
+    "ssn": 333666999
+  },
+  {
+    "username": "emily_anderson",
+    "email": "emily.anderson@gmail.com",
+    "password": "UniPass8425",
+    "firstName": "Emily",
+    "lastName": "Anderson",
+    "dateOfBirth": "05.10.1999",
+    "ssn": 222444666
+  }  
+]
