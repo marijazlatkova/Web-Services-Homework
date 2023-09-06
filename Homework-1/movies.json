@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "director": "Michel Gondry",
+    "genre": "Drama",
+    "release_year": 2004,
+    "rating": 8.3,
+    "language": "English"
+  },
+  {
+    "id": 3,
+    "title": "The Conjuring",
+    "director": "James Wan",
+    "genre": "Horror",
+    "release_year": 2013,
+    "rating": 7.5,
+    "language": "English"
+  },
+  {
+    "id": 4,
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "director": "Tim Burton",
+    "genre": "Adventure",
+    "release_year": 2016,
+    "rating": 6.7,
+    "language": "English"
+  },
+  {
+    "id": 5,
+    "title": "Shutter Island",
+    "director": "Martin Scorsese",
+    "genre": "Mystery",
+    "release_year": 2010,
+    "rating": 8.2,
+    "language": "English"
+  },
+  {
+    "id": 7,
+    "title": "Nightcrawler",
+    "director": "Dan Gilroy",
+    "genre": "Neo-Noir",
+    "release_year": 2014,
+    "rating": 7.8,
+    "language": "English"
+  },
+  {
+    "id": 8,
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "genre": "Thriller",
+    "release_year": 2010,
+    "rating": 8.8,
+    "language": "English"
+  },
+  {
+    "id": 9,
+    "title": "The Notebook",
+    "director": "Nick Cassavetes",
+    "genre": "Romance",
+    "release_year": 2004,
+    "rating": 7.8,
+    "language": "English"
+  },
+  {
+    "id": 10,
+    "title": "The Matrix",
+    "director": "The Wachowskis",
+    "genre": "Sci-Fi",
+    "release_year": 1999,
+    "rating": 8.7,
+    "language": "English"
+  },
+  {
+    "id": 11,
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "genre": "Crime",
+    "release_year": 1994,
+    "rating": 8.9,
+    "language": "English"
+  },
+  {
+    "id": 1,
+    "title": "Dumb and Dumber",
+    "director": "Peter Farrelly",
+    "genre": "Comedy",
+    "release_year": 1994,
+    "rating": 7.5,
+    "language": "English"
+  }
+]
